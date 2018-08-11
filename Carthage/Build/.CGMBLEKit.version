@@ -5,7 +5,7 @@
   "watchOS" : [
     {
       "name" : "CGMBLEKit",
-      "hash" : "ade5de40f0722c07387d73c66678eefb12db2e028e0eb3ced4810ab415469e16"
+      "hash" : "4d46c74e7f2546e18f7a82f0c6e59fa9e6ad092ce23c0153fcfebf758bc069c8"
     }
   ],
   "tvOS" : [
@@ -15,7 +15,7 @@
   "iOS" : [
     {
       "name" : "CGMBLEKit",
-      "hash" : "48dd66b1f45d9e92de8553d4e9f24cb9fb1ff2b1fdf7be0d2b8fda10d1ec8ea7"
+      "hash" : "ff892223c28c3a2c6376050982981fd1e44419f019c23d4ef66fcb34895e9f92"
     }
   ]
 }
