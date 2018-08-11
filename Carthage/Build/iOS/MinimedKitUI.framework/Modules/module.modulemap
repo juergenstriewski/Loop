@@ -1,0 +1,11 @@
+framework module MinimedKitUI {
+  umbrella header "MinimedKitUI.h"
+
+  export *
+  module * { export * }
+}
+
+module MinimedKitUI.Swift {
+    header "MinimedKitUI-Swift.h"
+    requires objc
+}
